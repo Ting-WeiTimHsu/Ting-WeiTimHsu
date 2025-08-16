@@ -1,7 +1,8 @@
 # Hi👋🏼, I'm Tim:
-- 🔭Computer Science and Math Sophomore at The Ohio State University and looking for specialized in AI/ML and algorithms.
-- 🌱 I'm looking to collaborating on software development projects and hands on project especially include the fields like autonomous control.<br>I'm currently learning to level up my software engineering skills and get into research fields.
-- ⚡Fun fact about me: Accidently got my name shoutout in Kansai International airport.   
+- 🔭 Computer Science🖱️ and Math🧮 Sophomore at The Ohio State University and looking for specialized in AI/ML and algorithms.
+- 🌱 I'm looking to collaborating on software development projects and hands on project especially include the fields like autonomous control.
+- 📚 I'm currently learning to level up my software engineering skills and get into research fields.
+- ⚡ Fun fact about me: Accidently got my name shoutout in Kansai International airport.
 
 
 ## 🌐 Socials:
