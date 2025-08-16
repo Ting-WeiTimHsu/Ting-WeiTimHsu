@@ -8,7 +8,18 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/tingwei-tim-hsu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tinlweihsu.0131@gmail.com) 
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="vertical-align: text-bottom;"> 
+  <a href="https://www.linkedin.com/in/tingwei-tim-hsu"> LinkedIn</a>
+</p>
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20" style="vertical-align: text-bottom;"> 
+  <a href="https://github.com/Ting-WeiTimHsu"> GitHub</a>
+</p>
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="20" height="20" style="vertical-align: text-bottom;"> 
+   tingweihsu.0131@gmail.com
+</p>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
