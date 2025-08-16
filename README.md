@@ -1,8 +1,10 @@
 # Hi👋🏼, I'm Tim:
-- 🔭 Computer Science🖱️ and Math🧮 Sophomore at The Ohio State University and looking for specialized in AI/ML and algorithms.
+- 🔭 Computer Science🖱️ and Math🧮 Sophomore at The Ohio State University and looking for specialized in AI/ML, algorithms, robotics.
 - 🌱 I'm looking to collaborating on software development projects and hands on project especially include the fields like autonomous control.
 - 📚 I'm currently learning to level up my software engineering skills and get into research fields.
+- 🗺️ 🇹🇼🇯🇵🇺🇸🇭🇰🇫🇷🇨🇭🇦🇹🇩🇪
 - ⚡ Fun fact about me: Accidently got my name shoutout in Kansai International airport.
+- 📍 Columbus, OH
 
 
 ## 🌐 Socials:
@@ -22,15 +24,3 @@
 
 <!--
 **Ting-WeiTimHsu/Ting-WeiTimHsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
