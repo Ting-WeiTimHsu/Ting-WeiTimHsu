@@ -5,7 +5,7 @@
 - 🗺️ 🇹🇼🇯🇵🇺🇸🇭🇰🇫🇷🇨🇭🇦🇹🇩🇪
 - ⚡ Fun fact about me: Accidently got my name shoutout in Kansai International airport.
 - 📍 Columbus, OH
-
+![My GitHub Game](game.gif)
 
 ## 🌐 Socials:
 <p>
